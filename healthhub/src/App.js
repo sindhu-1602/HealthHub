@@ -1,8 +1,8 @@
 import React from 'react';
-import Notifications from './pages/Notifications';
+import Chat from './pages/Chat';
 
 function App() {
-  return <Notifications />;
+  return <Chat />;
 }
 
 export default App;
