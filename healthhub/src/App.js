@@ -1,8 +1,8 @@
 import React from 'react';
-import Chat from './pages/Chat';
+import Dashboard from './pages/Dashboard';
 
 function App() {
-  return <Chat />;
+  return <Dashboard />;
 }
 
 export default App;
