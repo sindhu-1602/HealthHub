@@ -1,8 +1,8 @@
 import React from 'react';
-import Profile from './pages/Profile';
+import Notifications from './pages/Notifications';
 
 function App() {
-  return <Profile />;
+  return <Notifications />;
 }
 
 export default App;
